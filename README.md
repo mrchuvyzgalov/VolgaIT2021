@@ -7,5 +7,18 @@
 Пользователь должен написать свой URL (пример: //localhost:3306/test_db?serverTimezone=Europe/Moscow), имя пользователя и пароль. Если база данных существует, 
 таблицы statistics нет и мы можем к ней подключиться, то в базе данных в таблице statistics появится статистика. 
 
-Если произойдет какая то ошибка, то программа запишет ее в файл error.logs, который будет находится в корне диска.
+Если произойдет какая то ошибка, то программа запишет ее в файл errors.log, который будет находится в корне диска.
+
+Примеры работы программы:
+
+![1](https://user-images.githubusercontent.com/59579234/132401129-4cb563b2-bc3a-4559-b173-70e0c72100d9.png)
+
+![2](https://user-images.githubusercontent.com/59579234/132401160-eb5763a9-ff11-49c4-97e2-4216f27daebf.png)
+
+![3](https://user-images.githubusercontent.com/59579234/132401198-d0defa0f-589e-47e8-8e49-a3db257fd15a.png)
+
+![4](https://user-images.githubusercontent.com/59579234/132401241-a99253f3-56e5-4a6f-bac0-673ea3c61cff.png)
+
+
+
 
